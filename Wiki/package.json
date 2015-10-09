@@ -1,0 +1,12 @@
+{
+  "title": "Proyecto IS",
+  "name": "wiki",
+  "version": "0.0.2",
+  "description": "Proyecto de Ingenieria de Software.",
+  "main": "index.js",
+  "author": "Carolina Mora, Karen Urrego",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
